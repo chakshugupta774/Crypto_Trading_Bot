@@ -1,0 +1,38 @@
+2025-10-14 00:39:26,859 - INFO - Connecting to Binance Futures Testnet...
+2025-10-14 00:39:27,026 - INFO - Successfully connected to Binance. Server time: {'serverTime': 1760382567822}
+2025-10-14 00:40:10,558 - INFO - Attempting to place BUY LIMIT order for 0.001 BTCUSDT
+2025-10-14 00:40:11,135 - ERROR - Binance API Error: 400 - Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-14 00:42:28,201 - INFO - Connecting to Binance Futures Testnet...
+2025-10-14 00:42:28,620 - INFO - Successfully connected to Binance. Server time: {'serverTime': 1760382749456}
+2025-10-14 00:43:15,421 - INFO - Attempting to place BUY LIMIT order for 0.005 BTCUSDT
+2025-10-14 00:43:15,979 - ERROR - Binance API Error: 500 - An unknown error occurred while processing the request.
+2025-10-14 00:51:06,373 - INFO - Connecting to Binance Futures Testnet...
+2025-10-14 00:51:06,857 - INFO - Successfully connected to Binance. Server time: {'serverTime': 1760383267781}
+2025-10-14 00:51:52,162 - INFO - Attempting to place BUY LIMIT order for 0.005 BTCUSDT
+2025-10-14 00:51:52,708 - ERROR - Binance API Error: 500 - An unknown error occurred while processing the request.
+2025-10-14 01:04:45,881 - INFO - Connecting to Binance Futures Testnet...
+2025-10-14 01:04:46,300 - INFO - Successfully connected to Binance. Server time: {'serverTime': 1760384087398}
+2025-10-14 01:05:33,398 - INFO - Attempting to place BUY LIMIT order for 0.005 BTCUSDT
+2025-10-14 01:05:33,979 - ERROR - Binance API Error: 500 - An unknown error occurred while processing the request.
+2025-10-14 01:08:54,501 - INFO - Connecting to Binance Futures Testnet...
+2025-10-14 01:08:54,667 - INFO - Successfully connected to Binance. Server time: {'serverTime': 1760384335809}
+2025-10-14 01:09:23,837 - INFO - Attempting to place BUY LIMIT order for 0.005 BTCUSDT
+2025-10-14 01:09:24,478 - ERROR - Binance API Error: 500 - An unknown error occurred while processing the request.
+2025-10-14 16:17:29,268 - INFO - Connecting to Binance Futures Testnet...
+2025-10-14 16:17:29,512 - INFO - Successfully connected to Binance. Server time: {'serverTime': 1760438848886}
+2025-10-14 16:17:58,903 - INFO - Attempting to place BUY LIMIT order for 0.005 BTCUSDT
+2025-10-14 16:17:59,490 - ERROR - Binance API Error: 500 - An unknown error occurred while processing the request.
+2025-10-15 15:06:15,620 - INFO - Connecting to Binance Futures Testnet...
+2025-10-15 15:06:16,149 - INFO - Successfully connected to Binance. Server time: {'serverTime': 1760520975420}
+2025-10-15 15:08:01,763 - INFO - Attempting to place BUY STOP order for 0.005 BTCUSDT
+2025-10-15 15:08:02,306 - ERROR - Binance API Error: 400 - Limit price can't be higher than 10500
+2025-10-15 15:08:16,476 - INFO - Connecting to Binance Futures Testnet...
+2025-10-15 15:08:17,028 - INFO - Successfully connected to Binance. Server time: {'serverTime': 1760521096321}
+2025-10-15 21:46:11,521 - INFO - Attempting to place BUY STOP order for 0.002 BTCUSDT
+2025-10-15 21:46:12,046 - ERROR - Binance API Error: 400 - Limit price can't be higher than 9975
+2025-10-15 21:48:55,322 - INFO - Connecting to Binance Futures Testnet...
+2025-10-15 21:48:55,618 - INFO - Successfully connected to Binance.
+2025-10-15 21:49:01,123 - INFO - Fetching account balance...
+2025-10-15 21:49:02,773 - INFO - Balance fetched successfully.
+2025-10-15 21:49:39,654 - INFO - Attempting to place BUY LIMIT order for 2000.0 BTCUSDT
+2025-10-15 21:49:40,409 - ERROR - Binance API Error: 400 - Quantity greater than max quantity.
